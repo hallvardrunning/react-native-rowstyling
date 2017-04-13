@@ -1,0 +1,3 @@
+rootProject.name = 'RowStyling'
+
+include ':app'
